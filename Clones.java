@@ -14,6 +14,11 @@ class Clones
       z = x + y;
  
       System.out.println("Sum of the clones = " + z);
+      System.out.println("Sum of the clones = " + z);
+      System.out.println("Sum of the clones = " + z);
+      System.out.println("Sum of the clones = " + z);
+      System.out.println("Sum of the clones = " + z);
+      System.out.println("Sum of the clones = " + z);
    }
    
    public static void addClones2(int x, int y){
@@ -23,6 +28,11 @@ class Clones
       y = in.nextInt();
       z = x + y;
  
+      System.out.println("Sum of the clones = " + z);
+      System.out.println("Sum of the clones = " + z);
+      System.out.println("Sum of the clones = " + z);
+      System.out.println("Sum of the clones = " + z);
+      System.out.println("Sum of the clones = " + z);
       System.out.println("Sum of the clones = " + z);
    }
    
